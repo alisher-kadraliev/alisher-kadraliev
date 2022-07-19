@@ -14,3 +14,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=Telegram&logoColor=26A5E4)](https://t.me/recently11)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alisher-kadraliev&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisher-kadraliev)](https://github.com/anuraghazra/github-readme-stats)
