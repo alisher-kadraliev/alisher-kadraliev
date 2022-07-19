@@ -1,4 +1,4 @@
-![Header](https://github.com/alisher-kadraliev/alisher-kadraliev/blob/main/assets/alisher.png)
+Header
 
 About me 
 
