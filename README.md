@@ -2,8 +2,13 @@
 
 ## Welcome to my profile! I'm 👨🏻‍💻 Web Front-end Developer
 
-### Languages and Tools 
-![HTML](https://img.shields.io/badge/markup_language_HTML-fff?style=for-the-badge&logo=HTML5)
-![Css](https://img.shields.io/badge/Cascading_Style_Sheets_Css-fff?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+### Languages and Tools;
+![VS code](https://img.shields.io/badge/Visual_Studio_Code-000?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC)
+![HTML](https://img.shields.io/badge/markup_language_HTML-000?style=for-the-badge&logo=HTML5)
+![Css](https://img.shields.io/badge/Cascading_Style_Sheets_Css-000?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=Sass&logoColor=CC6699)
+![gulp](https://img.shields.io/badge/Gulp-000?style=for-the-badge&logo=gulp&logoColor=CF4647)
 
+## Contact me
+[![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=Telegram&logoColor=26A5E4)](https://t.me/recently11)
