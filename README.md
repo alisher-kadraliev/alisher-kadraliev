@@ -1,4 +1,4 @@
-![Header](https://github.com/alisher-kadraliev/alisher-kadraliev/blob/main/assets/alisher.jpg)
+![Header](https://github.com/aktehn)
 
 ## Welcome to my profile! I'm 👨🏻‍💻 Web Front-end Developer
 
