@@ -1,5 +1,7 @@
 👨‍💻 Web Developer
 
+As a dedicated Web Developer, I specialize in crafting clean and maintainable frontend architectures. My focus is on creating intuitive user interfaces that not only meet design specifications but also enhance user experience. I leverage modern frameworks like Next.js and React to build responsive and scalable applications
+
 ## Skills
 - JavaScript | TypeScript
 - Next.js | React | Laravel
@@ -9,8 +11,4 @@
 ## Connect
 - [Twitter](https://x.com/software32076)
 - [LinkedIn](https://www.linkedin.com/in/alisher-kadraliev-9a4ab524b/)
-- [Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=Telegram&logoColor=26A5E4)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisher-kadraliev)](https://github.com/anuraghazra/github-readme-stats)
+- [Instagram](https://www.instagram.com/alisher_dev_x/)
