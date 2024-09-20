@@ -9,6 +9,6 @@ As a dedicated Web Developer, I specialize in crafting clean and maintainable fr
 - MongoDB | PostgreSQL
 
 ## Connect
-- [Twitter](https://x.com/software32076)
+- [X](https://x.com/software32076)
 - [LinkedIn](https://www.linkedin.com/in/alisher-kadraliev-9a4ab524b/)
 - [Instagram](https://www.instagram.com/alisher_dev_x/)
