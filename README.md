@@ -7,9 +7,9 @@
 - MongoDB | PostgreSQL
 
 ## Connect
-- [Twitter](https://x.com/software32076))
-- [LinkedIn]((https://www.linkedin.com/in/alisher-kadraliev-9a4ab524b/))
-- [Telegram]((https://www.linkedin.com/in/alisher-kadraliev-9a4ab524b/)](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=Telegram&logoColor=26A5E4)](https://t.me/recently11))
+- [Twitter](https://x.com/software32076)
+- [LinkedIn](https://www.linkedin.com/in/alisher-kadraliev-9a4ab524b/)
+- [Telegram]((https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=Telegram&logoColor=26A5E4)](https://t.me/recently11))
 
 
 
